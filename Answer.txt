@@ -1,0 +1,7 @@
+Question: "Why are you interested in taking CMSC320?"
+Answer: What I enjoy the most about data science is the near-universal applicability of the field to effectively any other discipline.
+This inherently interdisciplinary character, which allows for fascinating insights to be developed from any field, means that I was
+interested in this subject before I even really understood what data science is. For instance, with subjects like politics, economics, or 
+sports, I have always enjoyed looking at statistics and projections about those topics, since they allow me to gain a better understanding 
+of subjects I am interested in. With this class, I would like to be able to generate such insights myself, particularly since being able to do
+so would allow me to answer questions that I would like to see answered.
